@@ -1,0 +1,36 @@
+# Simple daily routine flowchart with times and activities
+# No external libraries needed
+
+def daily_routine():
+    print("====== My Daily Routine ======")
+    print("6:30 AM - Wake up 🛌")
+    print("   ↓")
+    print("6:40 AM - Brush teeth & take a shower 🚿")
+    print("   ↓")
+    print("7:00 AM - Eat breakfast 🍳")
+    print("   ↓")
+    print("7:30 AM - Prepare school bag / review notes 🎒")
+    print("   ↓")
+    print("8:00 AM - Go to school / attend classes 🏫")
+    print("   ↓")
+    print("12:30 PM - Have lunch 🍚")
+    print("   ↓")
+    print("1:30 PM - Study / Do homework 📖")
+    print("   ↓")
+    print("4:00 PM - Take a short break / relax ☕")
+    print("   ↓")
+    print("5:00 PM - Exercise or play outside 🏃‍♀️")
+    print("   ↓")
+    print("6:30 PM - Help at home or do chores 🧹")
+    print("   ↓")
+    print("7:30 PM - Dinner 🍽️")
+    print("   ↓")
+    print("8:00 PM - Watch TV or use phone 📱")
+    print("   ↓")
+    print("9:30 PM - Prepare things for tomorrow 🎒")
+    print("   ↓")
+    print("10:00 PM - Sleep 😴")
+    print("==============================")
+
+# Run the routine
+daily_routine()
